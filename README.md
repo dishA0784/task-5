@@ -1,4 +1,3 @@
-Here’s a complete Google Docs–ready documentation for your project. You can copy-paste this directly into Google Docs and format headings (Heading 1, Heading 2, etc.).
 
 📊 CUSTOMER SALES ANALYSIS – DOCUMENTATION
 📌 1. Project Overview
@@ -92,7 +91,6 @@ Product comparison graphs
 
 📸 4. Screenshots of Working Application
 
-(Add these screenshots in your Google Doc)
 
 📌 Dataset preview (head of dataframe)
 
